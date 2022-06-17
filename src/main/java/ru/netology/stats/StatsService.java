@@ -9,6 +9,7 @@ public class StatsService {
             sum += sale;
         }
         return sum;
+
     }
 
     public int avg(int[] sales) {
